@@ -23,7 +23,7 @@
       <button type="button" id="submit">proses</button>
     </form>
 
-    <div id="result"></div>
+    <div id="result" style="margin-top:20px;"></div>
     <div id="result2"></div>
     <div id="result3"></div>
 
